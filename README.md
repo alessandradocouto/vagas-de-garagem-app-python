@@ -3,12 +3,12 @@
 Inseri, altera, remove e mostra informações de quais apartamentos são os carros estacionados em cada vaga do condomínio.
 
 
-# Tecnologias:
+## Tecnologias:
 
 Python, Tkinter, MySQL, Unittest
 
 
-# O que aprendi
+## O que aprendi
 
 - Entendimento de classes, métodos, atributos de classe e instância
 
@@ -24,18 +24,18 @@ Python, Tkinter, MySQL, Unittest
 primary key, quando usar DELETE CASCADE e DELETE NULL, utilizar expressões para recuperar informações do banco de dados.
 
 
-# Pré-requisitos
+## Pré-requisitos
 
 Python v3.10, VS Code v1.73.1, Linux x64 5.15.0-53-generic
 
 
-# Utilidade da Aplicação
+## Utilidade da Aplicação
 
 Condomínio terá conhecimento de quais carros e de quais apartamentos estão usando
 as vagas de garagem.
 
 
-# Regras de Negócio
+## Regras de Negócio
 
 Cada vaga de garagem é destinado a um morador, pode acontecer de um apartamento 
 ter mais de uma vaga, isso vai depender do que consta no contrato de cada imóvel
@@ -48,5 +48,5 @@ o número da placa do carro, caso tenha um carro, além do telefone. Além disso
 uma placa de carro é formada por 3 letras e 4 caracteres, sendo o segundo uma 
 letra de A até J, respectivamente.
 
-# License
+### License
 MIT
